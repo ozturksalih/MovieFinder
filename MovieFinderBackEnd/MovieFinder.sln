@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32811.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MovieFinder", "MovieFinder\MovieFinder.csproj", "{C86D0D9C-395F-4C48-8E89-E9D9F66E84EF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C86D0D9C-395F-4C48-8E89-E9D9F66E84EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C86D0D9C-395F-4C48-8E89-E9D9F66E84EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C86D0D9C-395F-4C48-8E89-E9D9F66E84EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C86D0D9C-395F-4C48-8E89-E9D9F66E84EF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8E97F4BF-A02F-4684-BB99-798C7F7A0DF7}
+	EndGlobalSection
+EndGlobal
